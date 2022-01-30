@@ -1,0 +1,4 @@
+names: [person, car]
+nc: 2
+train: /content/drive/MyDrive/ObjectDetection_EV/train/images
+val: /content/drive/MyDrive/ObjectDetection_EV/val/images
